@@ -2,7 +2,7 @@
 
 body{
 background-color: #eee;
-margin: 5em;
+
 }
 
 .newspaper-container{
@@ -10,6 +10,7 @@ margin: 5em;
     width: 700px;
     border-radius: 5px;
     padding: 1em;
+    margin-left: 33%;
 }
 
 .date {
