@@ -85,7 +85,7 @@ p{
 }
 
 .more-articles{
-    display: inline-flex;
+    display: flex;
     border-top: solid #eee 1px;
     text-align: justify;
 }
