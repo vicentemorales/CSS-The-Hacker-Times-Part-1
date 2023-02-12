@@ -9,6 +9,9 @@
 h1{
     text-align: center;
     font-family: 'Roboto Sab';
+    font:900;
+    font-weight: 1000%;
+    font-size: 300%;
 }
 
 nav{
@@ -23,12 +26,21 @@ li {
     list-style: none;
     font-family: 'Source Sans Pro';
     color: #777;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+a{
+    color: #777;
+    text-decoration: none;
 }
 
 h2{
     font: 'Roboto Slab';
     font-weight: 950px;
     display: inline-flex;
+    font-size: 200%;
+    margin-bottom: 1px;
 }
 
 h5{
@@ -42,6 +54,9 @@ h4{
 
 p{
     font-family: 'Source Sans Pro';
+    padding-left: 1em;
+    padding-right: 1em;
+    color: #505050;
 }
 
 .images{
