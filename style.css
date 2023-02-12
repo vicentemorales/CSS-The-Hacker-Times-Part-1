@@ -32,6 +32,12 @@ nav{
     border-top: solid 1px;
     border-bottom: solid 1px;
     border-color: #eee;
+    background-color: white;
+}
+
+.navbar{
+    position: sticky;
+    top: 0;
 }
 
 li {
