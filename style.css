@@ -2,8 +2,16 @@
 
 body{
 background-color: #eee;
-
+margin: 5em;
 }
+
+.newspaper-container{
+    background-color: white;
+    width: 700px;
+    border-radius: 5px;
+    padding: 1em;
+}
+
 .date {
     font-family: 'Source Sans Pro';
     font-weight:300;
@@ -29,8 +37,8 @@ li {
     list-style: none;
     font-family: 'Source Sans Pro';
     color: #777;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: .5%;
+    padding-right: .5%;
 }
 
 a{
